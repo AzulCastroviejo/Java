@@ -1,2 +1,5 @@
-package EjemploHerenciaPolimorfismo;public interface Volador {
+package EjemploHerenciaPolimorfismo;
+
+public interface Volador {
+    void volar();
 }
